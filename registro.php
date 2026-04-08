@@ -1,9 +1,8 @@
 <?php
-
 $host = 'localhost';
 $db = 'droid_forensics';
 $user = 'root';
-$pass = ''; // Configurar según entorno XAMPP
+$pass = ''; 
 $charset = 'utf8mb4';
 
 $dsn = "mysql:host=$host;dbname=$db;charset=$charset";
