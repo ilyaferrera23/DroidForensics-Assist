@@ -1,4 +1,5 @@
 <?php
+
 $host = 'localhost';
 $db = 'droid_forensics';
 $user = 'root';
